@@ -1,0 +1,130 @@
+.header{ 
+     color:  whitesmoke;
+    padding: 10px;
+    background-color:  rgb(2, 204, 170);
+    animation-name: example;
+    animation-duration: 8s;
+    animation-iteration-count:infinite; 
+    position: fixed;
+    width: 100%;
+  }
+  
+  @keyframes example {
+   70%{background-color: rgb(2, 204, 170);}
+  20%{background-color: rgb(2, 201, 148);}
+  }.image{
+    width: 90%;
+
+ 
+
+    
+  }.namestyle{
+ 
+
+  color:  rgb(2, 204, 170);
+  animation-name: examplee;
+  animation-duration: 8s;
+  animation-iteration-count:infinite; }
+
+  @keyframes examplee {
+    70%{color: rgb(2, 204, 170);}
+   20%{color: rgb(2, 201, 148);}
+  }#paraDiv{
+    padding: 10px;
+width: 100%;      border-bottom-left-radius: 10px;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius:10px ;
+      border-style: solid;
+      color:rgb(2, 204, 170) ;
+      border-color:rgb(2, 204, 170);
+      animation-name: examplee;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+    }.service{
+      padding: 5px;
+      color:rgb(2, 204, 170) ;
+      animation-name: examplee;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  text-align: center;
+  align-items: stretch;
+  }.cardone{
+    float: left;
+    padding:5px;
+  }#pencil{
+   margin-left: 100px;
+   margin-top: 10px;
+  }#branding{
+    margin-top: 10px;
+    margin-left: 100px;
+  }#lap{
+    margin-top: 10px;
+    margin-left: 100px;
+}#experience{
+  margin-top: 10px;
+  margin-left: 100px;
+}#codeicon{
+  margin-top: 10px;
+  margin-left: 100px;
+}#supporticon{
+  margin-top: 10px;
+  margin-left: 100px;
+
+}#design{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;
+}#brandingstyle{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;  
+}#interface{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;  
+}#expstyle{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;   
+}#codestyle{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke; 
+}#supportstyle{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;;
+}.subbutton{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;
+  width: 100%;
+  border: none;
+ border-radius: 7px;
+}#formid{
+  background-color:  rgb(2, 204, 170);
+  animation-name: example;
+  animation-duration: 8s;
+  animation-iteration-count:infinite;
+  color: whitesmoke;
+  width: 100%;
+}#footer{
+  background-color:  rgb(46, 58, 56);
+  
+  color: whitesmoke;
+  width: 100%;
+}
